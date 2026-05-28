@@ -29,6 +29,8 @@ function TopBar() {
         <a href="#mission">§ 02 ミッション</a>
         <a href="#projects">§ 03 プロジェクト</a>
         <a href="#values">§ 04 行動指針</a>
+        <a href="manifesto/">趣意書</a>
+        <a href="press/">リリース</a>
         <a href="#contact" className="cta-mini">§ 05 参画する</a>
       </nav>
     </div>
