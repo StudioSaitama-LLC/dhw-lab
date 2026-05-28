@@ -3,6 +3,17 @@
 design.md v0.2 に厳密準拠した LP のプロトタイプ実装。
 Claude Design からハンドオフされたバンドルを apps/lp/ に配置したもの。
 
+## デザインバリエーション
+
+| パス | バージョン | 特徴 |
+|---|---|---|
+| `/` | **v0**（本ディレクトリ） | クリーム × 5色限定多色 × 三声部対位法 × ポスター組版 |
+| `/v1/` | **v1**（[v1/README.md](v1/README.md)） | 紙・墨・朱・燐光（より禁欲的な明朝ベース） |
+
+GitHub Pages 公開後:
+- v0: https://studiosaitama-llc.github.io/dhw-lab/
+- v1: https://studiosaitama-llc.github.io/dhw-lab/v1/
+
 ## 構成
 
 | ファイル | 役割 |
